@@ -7,21 +7,30 @@ Technologies Used: (List key technologies and tools, e.g., Windows Server 2022, 
 <h1 align='center'>Table of Contents</h1>
 
 <details>
-<summary>1. Lab Goal, Technologies Used, Hardware Used</summary>
-- The primary goal of my lab is to facilitate learning and gain practical experience in the field of system and network administration. This environment serves as a hands-on platform for exploring various IT concepts and technologies.
+<summary>** 1. Lab Goal, Technologies Used, Hardware Used, Licences Used **</summary>
 
-- Core Technologies Used:
-Windows Server: For Active Directory, DNS, DHCP, GPOs, and various server roles.
-Linux (various distributions): For open-source server solutions, scripting, and networking tools.
-Proxmox VE: As the primary virtualization platform.
-GNS3: For network emulation and design.
+* **The primary goal of my lab is to facilitate learning and gain practical experience in the field of system and network administration. This environment serves as a hands-on platform for exploring various IT concepts and technologies.**
 
-- Physical Hardware Utilized:
-Server: Dell PowerEdge R630
-Server Specifications:
+* Core Technologies Used:
+  * Windows Server: For Active Directory, DNS, DHCP, GPOs, and various server roles.
+  * Linux (various distributions): For open-source server solutions, scripting, and networking tools.
+  * Proxmox VE: As the primary virtualization platform.
+  * GNS3: For network emulation and design.
 
-- Management Laptop: HP ProBook G6 R455
-Laptop Specifications:
+* Physical Hardware Utilized:
+  * Server: Dell PowerEdge R630
+  Server Specifications:
+  CPU:
+  Ram: 32 GB
+  Storage:
+  Network:
+
+  * Management Laptop: HP ProBook G6 R455
+  Laptop Specifications:
+  CPU:
+  Ram: 32 GB
+  Storage:
+  Network:
 
 Dell PowerEdge R630 Server Preparation:
 
