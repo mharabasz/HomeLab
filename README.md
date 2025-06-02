@@ -4,7 +4,7 @@ Proxmox, Gns3, Windows Server, Linux, Azure, AWS
 
 Technologies Used: (List key technologies and tools, e.g., Windows Server 2022, Active Directory, Hyper-V, Azure, PowerShell, VirtualBox/VMware, etc.)
 
-###**Table of Contents**###
+<h1 align='center'>Table of Contents</h1>
 
 <details>
 <summary>1. Lab Goal, Technologies Used, Hardware Used</summary>
@@ -23,7 +23,7 @@ Server Specifications:
 - Management Laptop: HP ProBook G6 R455
 Laptop Specifications:
 
-Dell PowerEdge R630 Server Preparation
+Dell PowerEdge R630 Server Preparation:
 
 - Firmware and Driver Updates:
 Updating BIOS to the latest version.
@@ -36,3 +36,4 @@ Setting up network access for remote management.
 - Proxmox VE and GNS3 Installation:
 Proxmox VE Installation: Deploying Proxmox as the hypervisor for virtual machine management.
 GNS3 Installation: Setting up GNS3 for network device emulation and complex network topologies.
+</details>
