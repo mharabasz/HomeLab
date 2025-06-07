@@ -5,7 +5,7 @@ Proxmox, Gns3, Windows Server, Linux, Azure, AWS
 <h1 align='center'>Table of Contents</h1>
 
 <details>
-<summary>** 1. Lab Goal, Technologies Used, Hardware Used, Licences Used **</summary>
+<summary><strong>1. Lab Goal, Technologies Used, Hardware Used, Licences Used</strong></summary>
 
 * **The primary goal of my lab is to facilitate learning and gain practical experience in the field of system and network administration. This environment serves as a hands-on platform for exploring various IT concepts and technologies.**
 
@@ -42,6 +42,5 @@ Proxmox, Gns3, Windows Server, Linux, Azure, AWS
   - Proxmox open-source software
   - GNS3 open-source software
 
-  
-
-
+<summary>2.</summary>
+</details>
