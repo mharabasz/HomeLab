@@ -2,8 +2,6 @@
 Windows Server Hybrid Administration Lab
 Proxmox, Gns3, Windows Server, Linux, Azure, AWS
 
-Technologies Used: (List key technologies and tools, e.g., Windows Server 2022, Active Directory, Hyper-V, Azure, PowerShell, VirtualBox/VMware, etc.)
-
 <h1 align='center'>Table of Contents</h1>
 
 <details>
@@ -11,38 +9,39 @@ Technologies Used: (List key technologies and tools, e.g., Windows Server 2022, 
 
 * **The primary goal of my lab is to facilitate learning and gain practical experience in the field of system and network administration. This environment serves as a hands-on platform for exploring various IT concepts and technologies.**
 
-* Core Technologies Used:
-  * Windows Server: For Active Directory, DNS, DHCP, GPOs, and various server roles.
-  * Linux (various distributions): For open-source server solutions, scripting, and networking tools.
-  * Proxmox VE: As the primary virtualization platform.
-  * GNS3: For network emulation and design.
+* **Core Technologies Used:**
+  - Windows Server: For Active Directory, PowerShell, DNS, DHCP, GPOs, and various server roles.
+  - Linux (various distributions): For open-source server solutions, scripting, and networking tools.
+  - Proxmox VE: As the primary virtualization platform.
+  - GNS3: For network emulation and design.
+  - Azure
+  - AWS
 
-* Physical Hardware Utilized:
-  * Server: Dell PowerEdge R630
+* **Physical Hardware Utilized:**
+  - Server: Dell PowerEdge R630
   Server Specifications:
-  CPU:
+  CPU: 2x Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
   Ram: 32 GB
-  Storage:
-  Network:
+  Storage: 2x SSD Dell Intel 400 GB
+           2x SAS HDD Seagate 600 GB
+           1x SAS HDD Seagate 300 GB
+           1x SAS HDD Seagate 1,8 TB
+  Network: Intel(R) 2P X520/2P I350 rNDC 10Gb/1Gb
 
-  * Management Laptop: HP ProBook G6 R455
+  - Management Laptop: HP ProBook G6 R455**
   Laptop Specifications:
-  CPU:
+  OS: Windows 11 Pro
+  CPU: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx 2.30 GHz
   Ram: 32 GB
-  Storage:
-  Network:
+  Storage: SK hynix BC501 500 GB
+           Samsung SSD 860 EVO 500 GB
+  Network: 1Gb
 
-Dell PowerEdge R630 Server Preparation:
+* **Licences Used:**
+  - Windows Evaluation Version
+  - Proxmox open-source software
+  - GNS3 open-source software
 
-- Firmware and Driver Updates:
-Updating BIOS to the latest version.
-Updating iDRAC (Integrated Dell Remote Access Controller) firmware.
-Ensuring all critical system drivers are up to date.
+  
 
-- iDRAC 8 Access Configuration:
-Setting up network access for remote management.
 
-- Proxmox VE and GNS3 Installation:
-Proxmox VE Installation: Deploying Proxmox as the hypervisor for virtual machine management.
-GNS3 Installation: Setting up GNS3 for network device emulation and complex network topologies.
-</details>
