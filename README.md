@@ -2,7 +2,7 @@
 Windows Server Hybrid Administration Lab
 Proxmox, Gns3, Windows Server, Linux, Azure, AWS
 
-<h1 align='center'>Table of Contents</h1>
+<h1 align='center'>My Test Environment</h1>
 
 <details>
 <summary><strong>1. Lab Goal, Technologies Used, Hardware Used, Licences Used</strong></summary>
