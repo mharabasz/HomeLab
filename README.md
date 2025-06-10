@@ -5,9 +5,9 @@ Proxmox, Gns3, Windows Server, Linux, Azure, AWS
 <h1 align='center'>My Test Environment</h1>
 
 <details>
-<summary><strong>1. Lab Goal, Technologies Used, Hardware Used, Licences Used</strong></summary>
+<summary><h2>1. Lab Goal, Technologies Used, Hardware Used, Licences Used</h2></summary>
 
-* **The primary goal of my lab is to facilitate learning and gain practical experience in the field of system and network administration. This environment serves as a hands-on platform for exploring various IT concepts and technologies.**
+* ***The primary goal of my lab is to facilitate learning and gain practical experience in the field of system and network administration. This environment serves as a hands-on platform for exploring various IT concepts and technologies.***
 
 * **Core Technologies Used:**
   - Windows Server: For Active Directory, PowerShell, DNS, DHCP, GPOs, and various server roles.
@@ -41,6 +41,6 @@ Proxmox, Gns3, Windows Server, Linux, Azure, AWS
   - Windows Evaluation Version
   - Proxmox open-source software
   - GNS3 open-source software
-
-<summary>2.</summary>
 </details>
+
+
