@@ -5,11 +5,13 @@ Proxmox, Gns3, Windows Server, Linux, Azure, AWS
 <h1 align='center'>My Test Environment</h1>
 
 <details>
-<summary><h2>Diagram and charts/h2></summary>
+<summary><h3>Diagram and charts</h2></summary>
 1.
 </details>
+
+
 <details>
-<summary><h2>Troubleshootingy/h2></summary>
+<summary><h3>Troubleshootingy</h2></summary>
 1.
 </details>
 <details>
@@ -50,6 +52,8 @@ Proxmox, Gns3, Windows Server, Linux, Azure, AWS
   - Proxmox open-source software
   - GNS3 open-source software
 </details>
+
+
 <details>
 <summary><h2>2. Environment preparation</h2></summary>
 
