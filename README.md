@@ -43,4 +43,12 @@ Proxmox, Gns3, Windows Server, Linux, Azure, AWS
   - GNS3 open-source software
 </details>
 
+<details>
+<summary><h2>2. Environment preparation</h2></summary>
+
+* **Installation and configuration of virtual maschines**
+  - Windows Server 2025 as domain controller
+  
+</details>
+
 
